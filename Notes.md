@@ -25,3 +25,17 @@
 ## 2. POST => server pr data send karna ho tab 
 ## 3. PATCH => jab server par data already ho aur use update karna ho tab use karte hai
 ## 4. DELETE => jab server par data ho aur use delte karna ho tab use karte hia
+
+
+
+# What is API?
+
+## API ka full form Application Programming Interface hota hai, jo basically ek digital bridge ya messenger ki tarah kaam karta hai jo do alag-alag software applications ko aapas mein communicate karne aur data share karne ki permission deta hai.
+
+# Types of API
+
+## REST API
+## SOAP API
+## GRAPHQL API
+## gRPC API
+## WebSocket API
